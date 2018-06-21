@@ -1,4 +1,4 @@
-# udacity_weratedog-
+# udacity_weratedog
 
 清洗 WeRateDogs 推特数据，创建有趣且可靠的分析和可视化。这份推特档案很棒，但是只包含基本的推特信息。要达到 "Wow!" 的效果，在分析和可视化前，还需要收集额外的数据、然后进行评估和清洗。
 
